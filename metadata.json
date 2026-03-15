@@ -1,0 +1,5 @@
+{
+  "name": "每日成长卡片生成器",
+  "description": "输入成长关键词，AI 为孩子生成充满阳光与鼓励的每日成长卡片。",
+  "requestFramePermissions": []
+}
